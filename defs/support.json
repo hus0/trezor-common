@@ -32,7 +32,8 @@
 		"DigiByte": "2.0.5",
 		"Monacoin": "2.0.5",
 		"Fujicoin": "2.0.5",
-		"Vertcoin": "2.0.5"
+		"Vertcoin": "2.0.5",
+		"Capricoin": "2.0.5"
 	},
 	"connect": {
 		"Bitcoin": true,
